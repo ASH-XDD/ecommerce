@@ -1,0 +1,25 @@
+/* Cart page custom styles */
+.cart-summary {
+    border-top: 2px solid #ddd;
+    padding-top: 20px;
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .cart-summary h4 {
+    font-weight: bold;
+  }
+  
+  .cart-summary .d-flex span {
+    font-size: 1rem;
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  
+  button {
+    font-size: 0.9rem;
+  }
+  
