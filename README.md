@@ -1,5 +1,5 @@
  
-# Task-management-system
+# Ecommerce basic app
 
 ###### Setup: Clone repository
 
